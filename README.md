@@ -11,7 +11,7 @@
 - 1N4001 flyback diode
 - 4.7kΩ pull-up, 220Ω gate resistor
 
-![Wiring Schematic](Documentation/KiCad/wiring-schematic.png)
+![Wiring Schematic](Documentation/KiCAD_schematic.png)
 
 ## System Architecture
 [Block diagram — sensor -> PID -> PWM -> fan -> thermal mass -> sensor, closing the loop]
